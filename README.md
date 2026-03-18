@@ -10,15 +10,14 @@
 - 👯 Me interesa colaborar en proyectos de **software educativo** y aplicaciones que tengan impacto positivo en la comunidad.  
 - 🤔 Busco ayuda para mejorar mis conocimientos en **algoritmos y estructuras de datos**.  
 - 💬 Pregúntame sobre mis experiencias como estudiante de informática y cómo aplico lo aprendido en proyectos prácticos.  
-- 📫 Puedes contactarme en: **walter.perez@example.com** (ajusta con tu correo real).  
-- 😄 Pronombres: **Él / He**  
-- ⚡ Dato curioso: Me encanta resolver problemas lógicos y también disfruto mucho del ajedrez.  
+- 📫 Puedes contactarme en: **walter.perez@example.com**   
+- ⚡ Dato curioso: Me encanta la musica y también disfruto mucho tocar la guitarra.  
 
 ---
 
 ## 🛠️ Tecnologías que uso
 - **Lenguajes:** C, Java, Python, JavaScript  
 - **Herramientas:** Git, GitHub, VS Code  
-- **Intereses:** Desarrollo web, inteligencia artificial, bases de datos  
+- **Intereses:** Desarrollo web, inteligencia artificial, bases de datos, ciber seguridad
 
 ---
