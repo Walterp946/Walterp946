@@ -16,7 +16,7 @@
 ---
 
 ## 🛠️ Tecnologías que uso
-- **Lenguajes:** C, Java, Python, JavaScript  
+- **Lenguajes:** Salesforce  
 - **Herramientas:** Git, GitHub, VS Code  
 - **Intereses:** Desarrollo web, inteligencia artificial, bases de datos, ciber seguridad
 
