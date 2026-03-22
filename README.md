@@ -15,9 +15,8 @@
 
 ---
 
-## 🛠️ Tecnologías que uso
-- **Lenguajes:** Salesforce  
-- **Herramientas:** Git, GitHub, VS Code  
+## 🛠️ Tecnologías que uso  
+- **Herramientas:** Salesfroce, Git, GitHub, VS Code  
 - **Intereses:** Desarrollo web, inteligencia artificial, bases de datos, ciber seguridad
 
 ---
